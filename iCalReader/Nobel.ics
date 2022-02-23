@@ -1,0 +1,113 @@
+BEGIN:VCALENDAR
+METHOD:REQUEST
+PRODID:Microsoft Exchange Server 2010
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID:W. Europe Standard Time
+BEGIN:STANDARD
+DTSTART:16010101T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+RRULE:FREQ=YEARLY;INTERVAL=1;BYDAY=-1SU;BYMONTH=10
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:16010101T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+RRULE:FREQ=YEARLY;INTERVAL=1;BYDAY=-1SU;BYMONTH=3
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+ORGANIZER;CN="Harte, Sandra":mailto:sandra.harte@capgemini.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Olof Somel
+ l:mailto:olof.somell@nobelprize.org
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Åsa Veste
+ rsköld:mailto:Asa.Vesterskold@nobelprize.org
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Hans Mehli
+ n:mailto:hans.mehlin@nobelprize.org
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Ulrika Ber
+ gman:mailto:ulrika.bergman@nobelprize.org
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=goran@rose
+ en.se:mailto:goran@roseen.se
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN="Zetterqvis
+ t, My":mailto:my.zetterqvist@capgemini.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN="Bhattachar
+ jee, Sandeepa":mailto:sandeepa.bhattacharjee@capgemini.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN="Karlsson, 
+ Frida":mailto:frida.a.karlsson@capgemini.com
+ATTACH:CID:D5A1DB64DE41A244A227F39C5B88B167@eurprd02.prod.outlook.com
+DESCRIPTION;LANGUAGE=en-US:Hej och välkomna till kick-off för Dynamics 36
+ 5 projektet!\n\nBifogat ser ni agenda och innehåll till mötet/workshopen
+ . Två delar kommer att vara interaktiva där ert deltagande kommer hjälp
+ a oss att sätta förväntningarna för projektet och POC fasen. Eftersom 
+ vi befinner oss digitalt så kommer vi samarbeta i ett verktyg som heter K
+ laxoon. Jag skickar ett separat email med info kring detta\, så att vi ka
+ n komma igång direkt när vi träffas i kick-offen.\n\nVi ser framemot at
+ t komma igång! Har ni några frågor så kontakta mig gärna.\n\nMvh\,\nS
+ andra & team\n____________________________________________________________
+ ____________________\nMicrosoft Teams meeting\nJoin on your computer or mo
+ bile app\nClick here to join the meeting<https://teams.microsoft.com/l/mee
+ tup-join/19%3ameeting_NGQzNDE5NDMtMjEwZS00MDdhLTlkNGEtMmMzNTg4MmM3Njgx%40t
+ hread.v2/0?context=%7b%22Tid%22%3a%2276a2ae5a-9f00-4f6b-95ed-5d33d77c4d61%
+ 22%2c%22Oid%22%3a%226a76b496-348a-4d79-92ca-28874fc410c8%22%7d>\nJoin with
+  a video conferencing device\nteams@vc.capgemini.com<mailto:teams@vc.capge
+ mini.com>\nVideo Conference ID: 119 915 301 5\nAlternate VTC dialing instr
+ uctions<https://vc.capgemini.com/teams/?conf=1199153015&ivr=teams&d=vc.cap
+ gemini.com&ip=194.3.231.206&prefix=55&w>\nCapgemini internal video device 
+ can also connect by dialing 55+ VTC Conference ID (55XXXXXXXXXX)\, Externa
+ l users can refer to “Alternate VTC dialing instructions”\nLearn More<
+ https://aka.ms/JoinTeamsMeeting> | Meeting options<https://teams.microsoft
+ .com/meetingOptions/?organizerId=6a76b496-348a-4d79-92ca-28874fc410c8&tena
+ ntId=76a2ae5a-9f00-4f6b-95ed-5d33d77c4d61&threadId=19_meeting_NGQzNDE5NDMt
+ MjEwZS00MDdhLTlkNGEtMmMzNTg4MmM3Njgx@thread.v2&messageId=0&language=en-US>
+ \n________________________________________________________________________
+ ________\n\n\n________________________________\n\nCapgemini is a trading n
+ ame used by the Capgemini Group of companies which includes Capgemini Sver
+ ige AB\, a company registered in Sweden (number 556092-3053) whose registe
+ red office is at FLEMINGGATAN 18 BOX 12054 S-102 22 Stockholm\, Sweden.\n
+UID:040000008200E00074C5B7101A82E008000000008079FADFEB11D701000000000000000
+ 01000000015398452DCA45C41B503F4F99CB36A62
+SUMMARY;LANGUAGE=en-US:Kick-off Dynamics 365 - Nobel
+DTSTART;TZID=W. Europe Standard Time:20210315T140000
+DTEND;TZID=W. Europe Standard Time:20210315T160000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20210308T092859Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION;LANGUAGE=en-US:Microsoft Teams Meeting
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-OWNERAPPTID:2122856421
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-SKYPETEAMSMEETINGURL:https://teams.microsoft.com/l/meetup-join/
+ 19%3ameeting_NGQzNDE5NDMtMjEwZS00MDdhLTlkNGEtMmMzNTg4MmM3Njgx%40thread.v2/
+ 0?context=%7b%22Tid%22%3a%2276a2ae5a-9f00-4f6b-95ed-5d33d77c4d61%22%2c%22O
+ id%22%3a%226a76b496-348a-4d79-92ca-28874fc410c8%22%7d
+X-MICROSOFT-SCHEDULINGSERVICEUPDATEURL:https://api.scheduler.teams.microsof
+ t.com/teams/76a2ae5a-9f00-4f6b-95ed-5d33d77c4d61/6a76b496-348a-4d79-92ca-2
+ 8874fc410c8/19_meeting_NGQzNDE5NDMtMjEwZS00MDdhLTlkNGEtMmMzNTg4MmM3Njgx@th
+ read.v2/0
+X-MICROSOFT-SKYPETEAMSPROPERTIES:{"cid":"19:meeting_NGQzNDE5NDMtMjEwZS00MDd
+ hLTlkNGEtMmMzNTg4MmM3Njgx@thread.v2"\,"private":true\,"type":0\,"mid":0\,"
+ rid":0\,"uid":null}
+X-MICROSOFT-ONLINEMEETINGCONFLINK:conf:sip:sandra.harte@capgemini.com\;gruu
+ \;opaque=app:conf:focus:id:teams:2:0!19:meeting_NGQzNDE5NDMtMjEwZS00MDdhLT
+ lkNGEtMmMzNTg4MmM3Njgx-thread.v2!6a76b496348a4d7992ca28874fc410c8!76a2ae5a
+ 9f004f6b95ed5d33d77c4d61
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-LOCATIONS:[ { "DisplayName" : "Microsoft Teams Meeting"\, "Loca
+ tionAnnotation" : ""\, "LocationSource" : 0\, "Unresolved" : false\, "Loca
+ tionUri" : "" } ]
+BEGIN:VALARM
+DESCRIPTION:REMINDER
+TRIGGER;RELATED=START:-PT15M
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+END:VCALENDAR
