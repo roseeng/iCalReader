@@ -29,6 +29,9 @@ namespace iCalReader
 
             var calendar = Calendar.Load(new StreamReader(_filename, true));
             var events = calendar.Events;
+            var title = calendar.Method; 
+            if (!string.IsNullOrEmpty(title))
+                this.Text = title;
 
             StringBuilder sb = new StringBuilder();
             foreach (var ev in events)
@@ -38,6 +41,13 @@ namespace iCalReader
                 sb.Append("Start:       " + ev.Start + Environment.NewLine);
                 sb.Append("Duration:    " + ev.Duration + Environment.NewLine);
                 sb.Append("End:         " + ev.End + Environment.NewLine);
+
+                foreach (var rr in ev.RecurrenceRules)
+                    sb.Append("Recurrance:  " + rr.ToString() + Environment.NewLine);
+
+                if (!string.IsNullOrEmpty(ev.Status))
+                    sb.Append("Status:     " + ev.Status + Environment.NewLine);
+
                 sb.Append("------------ " + Environment.NewLine);
                 sb.Append("Attendees:   " + Environment.NewLine);
                 foreach (var att in ev.Attendees)
@@ -46,6 +56,8 @@ namespace iCalReader
                 }
                 sb.Append("------------ " + Environment.NewLine);
                 sb.Append("Description: " + ev.Description + Environment.NewLine);
+                sb.Append("------------ " + Environment.NewLine);
+                sb.Append("UID:         " + ev.Uid + Environment.NewLine);
             }
 
             txtInfo.Text = sb.ToString();

@@ -1,0 +1,112 @@
+BEGIN:VCALENDAR
+METHOD:CANCEL
+PRODID:Microsoft Exchange Server 2010
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID:W. Europe Standard Time
+BEGIN:STANDARD
+DTSTART:16010101T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+RRULE:FREQ=YEARLY;INTERVAL=1;BYDAY=-1SU;BYMONTH=10
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:16010101T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+RRULE:FREQ=YEARLY;INTERVAL=1;BYDAY=-1SU;BYMONTH=3
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+ORGANIZER;CN="Rickne, Jonas":mailto:jonas.rickne@capgemini.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=ebba.bourg
+ hardt@nobelprize.org:mailto:ebba.bourghardt@nobelprize.org
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN="Leidefors,
+  Johan":mailto:johan.leidefors@sogeti.se
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN="Löfgren, 
+ Malin":mailto:malin.lofgren@sogeti.se
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN="Zetterqvis
+ t, My":mailto:my.zetterqvist@capgemini.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN="Bhattachar
+ jee, Sandeepa":mailto:sandeepa.bhattacharjee@capgemini.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN="Malik, Har
+ is":mailto:haris.malik@capgemini.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN="Björkencr
+ ona, Helen":mailto:helen.bjorkencrona@sogeti.se
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Åsa Veste
+ rsköld:mailto:Asa.Vesterskold@nobelprize.org
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Olof Somel
+ l:mailto:olof.somell@nobelprize.org
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=goran@rose
+ en.se:mailto:goran@roseen.se
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=hans.mehli
+ n@nobelprize.org:mailto:hans.mehlin@nobelprize.org
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN="Blennegår
+ d, Marcus":mailto:marcus.blennegard@sogeti.se
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN="Widell, Lo
+ uise":mailto:louise.widell@capgemini.com
+DESCRIPTION;LANGUAGE=en-US:Agenda TBD\n\nMeeting documentation will be sent
+  out latest Monday before 12:00.\n\n______________________________________
+ __________________________________________\nMicrosoft Teams meeting\nJoin 
+ on your computer or mobile app\nClick here to join the meeting<https://tea
+ ms.microsoft.com/l/meetup-join/19%3ameeting_YzI5MzJiYmMtYTg0ZC00OGExLTlhNW
+ EtNDY0YzdlMjU2Yzhi%40thread.v2/0?context=%7b%22Tid%22%3a%2276a2ae5a-9f00-4
+ f6b-95ed-5d33d77c4d61%22%2c%22Oid%22%3a%2291cf2c59-128a-408c-b223-cb98b0b2
+ e003%22%7d>\nJoin with a video conferencing device\nteams@vc.capgemini.com
+ <mailto:teams@vc.capgemini.com>\nVideo Conference ID: 112 007 106 7\nAlter
+ nate VTC instructions<https://vc.capgemini.com/teams/?conf=1120071067&ivr=
+ teams&d=vc.capgemini.com&ip=194.3.231.206&prefix=55>\nCapgemini internal v
+ ideo device can also connect by dialing 55+ VTC Conference ID (55XXXXXXXXX
+ X)\, External users can refer to “Alternate VTC dialing instructions”\
+ nLearn More<https://aka.ms/JoinTeamsMeeting> | Meeting options<https://tea
+ ms.microsoft.com/meetingOptions/?organizerId=91cf2c59-128a-408c-b223-cb98b
+ 0b2e003&tenantId=76a2ae5a-9f00-4f6b-95ed-5d33d77c4d61&threadId=19_meeting_
+ YzI5MzJiYmMtYTg0ZC00OGExLTlhNWEtNDY0YzdlMjU2Yzhi@thread.v2&messageId=0&lan
+ guage=en-US>\n____________________________________________________________
+ ____________________\n\n\n________________________________\n\nCapgemini is
+  a trading name used by the Capgemini Group of companies which includes Ca
+ pgemini Sverige AB\, a company registered in Sweden (number 556092-3053) w
+ hose registered office is at FLEMINGGATAN 18 BOX 12054 S-102 22 Stockholm\
+ , Sweden.\n
+UID:040000008200E00074C5B7101A82E00800000000509A4301792DD801000000000000000
+ 010000000FE98F8BABF67ED4FA1B19DD1804433CF
+RECURRENCE-ID;TZID=W. Europe Standard Time:20220419T130000
+SUMMARY;LANGUAGE=en-US:Canceled: Thuesday workshop Nobelstiftelsen / Capgem
+ ini
+DTSTART;TZID=W. Europe Standard Time:20220419T130000
+DTEND;TZID=W. Europe Standard Time:20220419T150000
+CLASS:PUBLIC
+PRIORITY:1
+DTSTAMP:20220413T120756Z
+TRANSP:TRANSPARENT
+STATUS:CANCELLED
+SEQUENCE:5
+LOCATION;LANGUAGE=en-US:Microsoft Teams Meeting
+X-MICROSOFT-CDO-APPT-SEQUENCE:5
+X-MICROSOFT-CDO-OWNERAPPTID:1428240358
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:2
+X-MICROSOFT-CDO-INSTTYPE:3
+X-MICROSOFT-ONLINEMEETINGINFORMATION:{"OnlineMeetingChannelId":null\,"Onlin
+ eMeetingProvider":3}
+X-MICROSOFT-SKYPETEAMSMEETINGURL:https://teams.microsoft.com/l/meetup-join/
+ 19%3ameeting_YzI5MzJiYmMtYTg0ZC00OGExLTlhNWEtNDY0YzdlMjU2Yzhi%40thread.v2/
+ 0?context=%7b%22Tid%22%3a%2276a2ae5a-9f00-4f6b-95ed-5d33d77c4d61%22%2c%22O
+ id%22%3a%2291cf2c59-128a-408c-b223-cb98b0b2e003%22%7d
+X-MICROSOFT-SCHEDULINGSERVICEUPDATEURL:https://api.scheduler.teams.microsof
+ t.com/teams/76a2ae5a-9f00-4f6b-95ed-5d33d77c4d61/91cf2c59-128a-408c-b223-c
+ b98b0b2e003/19_meeting_YzI5MzJiYmMtYTg0ZC00OGExLTlhNWEtNDY0YzdlMjU2Yzhi@th
+ read.v2/0
+X-MICROSOFT-SKYPETEAMSPROPERTIES:{"cid":"19:meeting_YzI5MzJiYmMtYTg0ZC00OGE
+ xLTlhNWEtNDY0YzdlMjU2Yzhi@thread.v2"\,"private":true\,"type":0\,"mid":0\,"
+ rid":0\,"uid":null}
+X-MICROSOFT-ONLINEMEETINGCONFLINK:conf:sip:jonas.rickne@capgemini.com\;gruu
+ \;opaque=app:conf:focus:id:teams:2:0!19:meeting_YzI5MzJiYmMtYTg0ZC00OGExLT
+ lhNWEtNDY0YzdlMjU2Yzhi-thread.v2!91cf2c59128a408cb223cb98b0b2e003!76a2ae5a
+ 9f004f6b95ed5d33d77c4d61
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+END:VEVENT
+END:VCALENDAR

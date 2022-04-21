@@ -18,6 +18,7 @@ namespace iCalReader
             if (args.Count() > 0)
                 file = args[0];
 
+//            file = @"C:\Projects\Eget\iCalReader\iCalReader\PO-arkitektursynk.ics";
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new frmMain(file));

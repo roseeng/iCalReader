@@ -1,0 +1,317 @@
+BEGIN:VCALENDAR
+PRODID:-//Microsoft Corporation//Outlook 16.0 MIMEDIR//EN
+VERSION:2.0
+METHOD:REQUEST
+X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+BEGIN:VTIMEZONE
+TZID:W. Europe Standard Time
+BEGIN:STANDARD
+DTSTART:16011028T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:16010325T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+ATTENDEE;CN="SE - PL4 - White Hart Lane (Vintervägen Video 10p)";CUTYPE=RE
+	SOURCE;ROLE=NON-PARTICIPANT;RSVP=TRUE:mailto:VK10Vplan4@svea.com
+ATTENDEE;CN="Anders Isaksson";RSVP=TRUE:mailto:anders.isaksson@svea.com
+ATTENDEE;CN="Ann Widerstrand";RSVP=TRUE:mailto:ann.widerstrand@svea.com
+ATTENDEE;CN="Görel Wallin";RSVP=TRUE:mailto:gorel.wallin@svea.com
+ATTENDEE;CN="Karolina Blomberg";RSVP=TRUE:mailto:karolina.blomberg@svea.com
+ATTENDEE;CN="Katarina Peters";RSVP=TRUE:mailto:katarina.peters@svea.com
+ATTENDEE;CN="Niclas Behre";RSVP=TRUE:mailto:niclas.behre@svea.com
+ATTENDEE;CN="Oscar Danckwardt";RSVP=TRUE:mailto:oscar.danckwardt@svea.com
+ATTENDEE;CN="Sabine Johansson Öhlén";RSVP=TRUE:mailto:sabine.johansson.oh
+	len@svea.com
+ATTENDEE;CN="Åsa Fogelin";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:asa.fogeli
+	n@svea.com
+CATEGORIES:Se mig!
+CLASS:PUBLIC
+CREATED:20220419T115747Z
+DESCRIPTION:Välkomna till vårens synkmöten!\n\n \n\nTanken med detta mö
+	te är att ta upp ämnen som berör mig som arkitekt och kan vara intressa
+	nt för flera av er.\n\nDet kan till exempel vara frågor som någon av os
+	s vill ha svar på eller information om något vi har satt igång med.\n\n
+	 \n\nOm ni vill att jag ska besvara något speciellt kan ni gärna säga t
+	ill i förväg så förbereder jag mig innan!\n\nVi kan också slänga in 
+	ett extra möte vid behov.\n\n \n\nJag bokar ett rum\, men räknar med att
+	 åtminstone i början av våren vill nog många jobba hemifrån.\n\n \n\n
+	/Göran\n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n
+	\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n................................
+	..........................................................................
+	...............................\n\nJoin Skype Meeting <https://meet.svea.c
+	om/goran.roseen/1S0HS85Q>       \n\nTrouble Joining? Try Skype Web App <ht
+	tps://meet.svea.com/goran.roseen/1S0HS85Q?sl=1> \n\nJoin by phone\n\n \n\n
+	+46 8 735 29 22\,\,4250350# (Sweden)                             English (
+	United Kingdom) \n\n \n\nFind a local number <https://dialin.svea.com?id=4
+	250350>  \n\n \n\nConference ID: 4250350\n\nForgot your dial-in PIN? <http
+	s://dialin.svea.com>  |Help <https://o15.officeredir.microsoft.com/r/rlidL
+	ync15?clid=1033&p1=5&p2=2009>    \n\n \n\n[!OC([1033])!]\n\n..............
+	..........................................................................
+	.................................................\n\n \n\n
+DTEND;TZID="W. Europe Standard Time":20220127T103000
+DTSTAMP:20220309T090501Z
+DTSTART;TZID="W. Europe Standard Time":20220127T093500
+LAST-MODIFIED:20220419T115747Z
+LOCATION:SE - PL4 - White Hart Lane (Vintervägen Video 10p)
+ORGANIZER;CN="Göran Roseen":mailto:goran.roseen@svea.com
+PRIORITY:5
+RESOURCES:SE - PL2 - Capella (Vintervägen 6p),SE - PL2 - Castor (Vintervä
+	gen 6p),SE - PL2 - Gavlerinken (Vintervägen 8p),SE - PL2 - Nobelhallen (V
+	intervägen 10p),SE - PL2 - Sirius (Vintervägen 8p),SE - PL2 - Stadshagen
+	s IP (Vintervägen 10p),SE - PL3 - Hovet (Vintervägen 12p),SE - PL3 - Sol
+	lentunavallen (Vintervägen 12p),SE - PL4 - Anfield (Vintervägen 5p),SE -
+	 PL4 - Camp Nou (Vintervägen 22p),SE - PL4 - Friends Arena (Vintervägen 
+	10p),SE - PL4 - Grimsta IP (Dalvägen 6p),SE - PL4 - Highbury (Vinterväge
+	n 6p),SE - PL4 - Olympia (Vintervägen 6p),SE - PL4 - Skytteholms IP (Grä
+	ndgatan 8p),SE - PL4 - Stockholm Stadion (Dalvägen 6p),SE - PL4 - Strömv
+	allen (Dalvägen 8p),SE - PL4 - Wembley (Vintervägen 30p),SE - PL5 - Ryav
+	allen (Grändgatan 8p),SE - PL5 - Råsunda Stadion (Vintervägen Video 14p
+	),SE - PL5 - Uddens IP (Evenemangsgatan 6p),SE - PL5 - Ullevaal Stadion (D
+	alvägen 6p),SE - PL5 - Örjansvall (Vintervägen 6p),SE - PL6 - Kopparval
+	len (Vintervägen 6p),SE - PL6 - Old Trafford (Dalvägen 6p),SE - PL6 - Pa
+	rken (Evenemangsgatan 6p),SE - PL6 - San Siro (Grändgatan 8p),SE - PL6 - 
+	Stamford Bridge (Grändgatan 10p),SE - PL6 - Stora Valla (Vintervägen Vid
+	eo 10p)
+RRULE:FREQ=WEEKLY;COUNT=11;INTERVAL=2;BYDAY=TH;WKST=MO
+SEQUENCE:3
+SUMMARY;LANGUAGE=sv:PO-arkitektursynk
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E00800000000A06524739200D801000000000000000
+	010000000819E1DB46B2C454388A4DFC3E2E5F308
+X-ALT-DESC;FMTTYPE=text/html:<html xmlns:v="urn:schemas-microsoft-com:vml" 
+	xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-mic
+	rosoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/
+	12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head><meta name=Generato
+	r content="Microsoft Word 15 (filtered medium)"><!--[if !mso]><style>v\\:*
+	 {behavior:url(#default#VML)\;}\no\\:* {behavior:url(#default#VML)\;}\nw\\
+	:* {behavior:url(#default#VML)\;}\n.shape {behavior:url(#default#VML)\;}\n
+	</style><![endif]--><style><!--\n/* Font Definitions */\n@font-face\n	{fon
+	t-family:"Cambria Math"\;\n	panose-1:2 4 5 3 5 4 6 3 2 4\;}\n@font-face\n	
+	{font-family:Calibri\;\n	panose-1:2 15 5 2 2 2 4 3 2 4\;}\n/* Style Defini
+	tions */\np.MsoNormal\, li.MsoNormal\, div.MsoNormal\n	{margin:0cm\;\n	fon
+	t-size:11.0pt\;\n	font-family:"Calibri"\,sans-serif\;}\na:link\, span.MsoH
+	yperlink\n	{mso-style-priority:99\;\n	color:#0563C1\;\n	text-decoration:un
+	derline\;}\nspan.EmailStyle18\n	{mso-style-type:personal-compose\;\n	font-
+	family:"Calibri"\,sans-serif\;\n	color:windowtext\;}\n.MsoChpDefault\n	{ms
+	o-style-type:export-only\;\n	font-size:10.0pt\;}\n@page WordSection1\n	{si
+	ze:612.0pt 792.0pt\;\n	margin:70.85pt 70.85pt 70.85pt 70.85pt\;}\ndiv.Word
+	Section1\n	{page:WordSection1\;}\n--></style><!--[if gte mso 9]><xml>\n<o:
+	shapedefaults v:ext="edit" spidmax="1027" />\n</xml><![endif]--><!--[if gt
+	e mso 9]><xml>\n<o:shapelayout v:ext="edit">\n<o:idmap v:ext="edit" data="
+	1" />\n</o:shapelayout></xml><![endif]--></head><body lang=EN-US link="#05
+	63C1" vlink="#954F72" style='word-wrap:break-word'><div class=WordSection1
+	><p class=MsoNormal><!--[if gte vml 1]><v:shapetype id="_x0000_t75" coords
+	ize="21600\,21600" o:spt="75" o:preferrelative="t" path="m@4@5l@4@11@9@11@
+	9@5xe" filled="f" stroked="f">\n<v:stroke joinstyle="miter" />\n<v:formula
+	s>\n<v:f eqn="if lineDrawn pixelLineWidth 0" />\n<v:f eqn="sum @0 1 0" />\
+	n<v:f eqn="sum 0 0 @1" />\n<v:f eqn="prod @2 1 2" />\n<v:f eqn="prod @3 21
+	600 pixelWidth" />\n<v:f eqn="prod @3 21600 pixelHeight" />\n<v:f eqn="sum
+	 @0 0 1" />\n<v:f eqn="prod @6 1 2" />\n<v:f eqn="prod @7 21600 pixelWidth
+	" />\n<v:f eqn="sum @8 21600 0" />\n<v:f eqn="prod @7 21600 pixelHeight" /
+	>\n<v:f eqn="sum @10 21600 0" />\n</v:formulas>\n<v:path o:extrusionok="f"
+	 gradientshapeok="t" o:connecttype="rect" />\n<o:lock v:ext="edit" aspectr
+	atio="t" />\n</v:shapetype><v:shape id="Picture_x0020_1" o:spid="_x0000_s1
+	026" type="#_x0000_t75" alt="A picture containing place of worship\, stupa
+	&#10\;&#10\;Description automatically generated" style='position:absolute\
+	;margin-left:0\;margin-top:0\;width:420.05pt\;height:420.05pt\;z-index:251
+	658240\;visibility:visible\;mso-wrap-style:square\;mso-width-percent:0\;ms
+	o-height-percent:0\;mso-wrap-distance-left:9pt\;mso-wrap-distance-top:0\;m
+	so-wrap-distance-right:9pt\;mso-wrap-distance-bottom:0\;mso-position-horiz
+	ontal:absolute\;mso-position-horizontal-relative:text\;mso-position-vertic
+	al:absolute\;mso-position-vertical-relative:text\;mso-width-percent:0\;mso
+	-height-percent:0\;mso-width-relative:page\;mso-height-relative:page'>\n<v
+	:imagedata src="cid:image001.jpg@01D80093.E9854F10" o:title="A picture con
+	taining place of worship\, stupa&#10\;&#10\;Description automatically gene
+	rated" />\n<w:wrap type="square"/>\n</v:shape><![endif]--><![if !vml]><img
+	 width=560 height=560 style='width:5.8333in\;height:5.8333in' src="cid:ima
+	ge002.jpg@01D8339D.23921D50" align=left hspace=12 alt="A picture containin
+	g place of worship\, stupa&#10\;&#10\;Description automatically generated"
+	 v:shapes="Picture_x0020_1"><![endif]><a name="_InsertRtfSavedPosition"></
+	a><b><span lang=SV style='font-size:18.0pt'>Välkomna till vårens synkmö
+	ten!<o:p></o:p></span></b></p><p class=MsoNormal><b><span lang=SV style='f
+	ont-size:18.0pt'><o:p>&nbsp\;</o:p></span></b></p><p class=MsoNormal><span
+	 lang=SV>Tanken med detta möte är att ta upp ämnen som berör mig som a
+	rkitekt och kan vara intressant för flera av er.<o:p></o:p></span></p><p 
+	class=MsoNormal><span lang=SV>Det kan till exempel vara frågor som någon
+	 av oss vill ha svar på eller information om något vi har satt igång me
+	d.<o:p></o:p></span></p><p class=MsoNormal><span lang=SV><o:p>&nbsp\;</o:p
+	></span></p><p class=MsoNormal><span lang=SV>Om ni vill att jag ska besvar
+	a något speciellt kan ni gärna säga till i förväg så förbereder jag
+	 mig innan!<o:p></o:p></span></p><p class=MsoNormal><span lang=SV>Vi kan o
+	ckså slänga in ett extra möte vid behov.<o:p></o:p></span></p><p class=
+	MsoNormal><span lang=SV><o:p>&nbsp\;</o:p></span></p><p class=MsoNormal><s
+	pan lang=SV>Jag bokar ett rum\, men räknar med att åtminstone i början 
+	av våren vill nog många jobba hemifrån.<o:p></o:p></span></p><p class=M
+	soNormal><span lang=SV><o:p>&nbsp\;</o:p></span></p><p class=MsoNormal><sp
+	an lang=SV>/Göran<o:p></o:p></span></p><p class=MsoNormal><span lang=SV><
+	o:p>&nbsp\;</o:p></span></p><p class=MsoNormal><span lang=SV><o:p>&nbsp\;<
+	/o:p></span></p><p class=MsoNormal><span lang=SV><o:p>&nbsp\;</o:p></span>
+	</p><p class=MsoNormal><span lang=SV><o:p>&nbsp\;</o:p></span></p><p class
+	=MsoNormal><span lang=SV><o:p>&nbsp\;</o:p></span></p><p class=MsoNormal><
+	span lang=SV><o:p>&nbsp\;</o:p></span></p><p class=MsoNormal><span lang=SV
+	><o:p>&nbsp\;</o:p></span></p><p class=MsoNormal><span lang=SV><o:p>&nbsp\
+	;</o:p></span></p><p class=MsoNormal><span lang=SV><o:p>&nbsp\;</o:p></spa
+	n></p><p class=MsoNormal><span lang=SV><o:p>&nbsp\;</o:p></span></p><p cla
+	ss=MsoNormal><span lang=SV><o:p>&nbsp\;</o:p></span></p><p class=MsoNormal
+	><span lang=SV><o:p>&nbsp\;</o:p></span></p><p class=MsoNormal><span lang=
+	SV><o:p>&nbsp\;</o:p></span></p><p class=MsoNormal><span lang=SV><o:p>&nbs
+	p\;</o:p></span></p><p class=MsoNormal><span lang=SV><o:p>&nbsp\;</o:p></s
+	pan></p><p class=MsoNormal><span lang=SV><o:p>&nbsp\;</o:p></span></p><p c
+	lass=MsoNormal><span lang=SV><o:p>&nbsp\;</o:p></span></p><p class=MsoNorm
+	al><span lang=SV><o:p>&nbsp\;</o:p></span></p><p class=MsoNormal><span lan
+	g=SV><o:p>&nbsp\;</o:p></span></p><p class=MsoNormal><span lang=SV><o:p>&n
+	bsp\;</o:p></span></p><p class=MsoNormal><span lang=SV><o:p>&nbsp\;</o:p><
+	/span></p><p class=MsoNormal style='text-autospace:none'><span lang=SV sty
+	le='font-size:8.0pt\;color:#404040'>......................................
+	..........................................................................
+	.........................</span><b><span lang=SV style='font-size:14.0pt'>
+	<o:p></o:p></span></b></p><p class=MsoNormal style='text-autospace:none'><
+	a name=OutJoinLink></a><a href="https://meet.svea.com/goran.roseen/1S0HS85
+	Q"><span style='mso-bookmark:OutJoinLink'><span lang=SV style='font-size:1
+	6.0pt\;color:#0066CC'>Join Skype Meeting</span></span><span style='mso-boo
+	kmark:OutJoinLink'></span></a><span style='mso-bookmark:OutJoinLink'><span
+	 lang=SV style='font-size:14.0pt'>&nbsp\; <a name=OutSharedNoteBorder>&nbs
+	p\;</a>&nbsp\;&nbsp\;<a name=OutSharedNoteLink>&nbsp\;</a></span></span><s
+	pan lang=SV style='font-size:14.0pt'><o:p></o:p></span></p><p class=MsoNor
+	mal style='mso-margin-top-alt:3.0pt\;margin-right:0cm\;margin-bottom:12.0p
+	t\;margin-left:16.0pt\;line-height:125%\;text-autospace:none'><span lang=S
+	V style='font-size:10.0pt\;line-height:125%'>Trouble Joining? <u><a href="
+	https://meet.svea.com/goran.roseen/1S0HS85Q?sl=1"><span style='color:#0066
+	CC'>Try Skype Web App</span></a></u><o:p></o:p></span></p><p class=MsoNorm
+	al style='text-autospace:none'><span lang=EN style='font-size:13.0pt\;colo
+	r:black'>Join by phone</span><span lang=EN style='font-size:8.0pt\;color:b
+	lack'><o:p></o:p></span></p><p class=MsoNormal style='text-autospace:none'
+	><span lang=EN style='font-size:8.0pt'><o:p>&nbsp\;</o:p></span></p><p cla
+	ss=MsoNormal style='margin-bottom:2.0pt\;text-autospace:none'><span lang=E
+	N style='font-size:10.0pt'>+46 8 735 29 22\,\,4250350# (Sweden) &nbsp\;&nb
+	sp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;
+	&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbs
+	p\;&nbsp\;&nbsp\;&nbsp\;&nbsp\; English (United Kingdom) </span><span lang
+	=EN style='font-size:3.0pt'><o:p></o:p></span></p><p class=MsoNormal style
+	='margin-bottom:2.0pt\;text-autospace:none'><span lang=EN style='font-size
+	:3.0pt'><o:p>&nbsp\;</o:p></span></p><p class=MsoNormal style='margin-bott
+	om:2.0pt\;text-autospace:none'><u><span lang=EN style='font-size:10.0pt\;c
+	olor:#943634'><a href="https://dialin.svea.com?id=4250350"><span style='co
+	lor:#0066CC'>Find a local number</span></a></span></u><span lang=EN> </spa
+	n><span lang=EN style='font-size:10.5pt'><o:p></o:p></span></p><p class=Ms
+	oNormal style='margin-bottom:2.0pt\;text-autospace:none'><span lang=EN sty
+	le='font-size:8.0pt'><o:p>&nbsp\;</o:p></span></p><p class=MsoNormal style
+	='margin-bottom:2.0pt\;text-autospace:none'><span lang=EN style='font-size
+	:10.0pt'>Conference ID: 4250350</span><span lang=EN style='font-size:10.5p
+	t'><o:p></o:p></span></p><p class=MsoNormal style='text-autospace:none'><s
+	pan lang=EN style='font-size:10.0pt\;color:#0066CC'><a href="https://diali
+	n.svea.com"><span style='color:#0066CC'>Forgot your dial-in PIN?</span></a
+	></span><span lang=EN style='font-size:3.0pt'> </span><span lang=EN>|</spa
+	n><span lang=EN style='font-size:10.0pt'><a href="https://o15.officeredir.
+	microsoft.com/r/rlidLync15?clid=1033&amp\;p1=5&amp\;p2=2009"><span style='
+	color:#0066CC'>Help</span></a></span><span lang=EN style='font-size:3.0pt'
+	>&nbsp\;&nbsp\; </span><span lang=EN style='font-size:8.0pt'><o:p></o:p></
+	span></p><p class=MsoNormal style='text-autospace:none'><span lang=EN styl
+	e='font-size:14.0pt'><o:p>&nbsp\;</o:p></span></p><p class=MsoNormal style
+	='text-autospace:none'><sub><span lang=EN style='font-size:1.0pt\;color:wh
+	ite'>[!OC([1033])!]</span></sub><span lang=EN style='font-size:3.0pt'><o:p
+	></o:p></span></p><p class=MsoNormal style='margin-bottom:10.0pt\;line-hei
+	ght:115%\;text-autospace:none'><span lang=EN style='font-size:8.0pt\;line-
+	height:115%\;color:#404040'>..............................................
+	..........................................................................
+	.................</span><span lang=EN style='font-size:10.5pt\;line-height
+	:115%'><o:p></o:p></span></p><p class=MsoNormal><span lang=SV><o:p>&nbsp\;
+	</o:p></span></p></div></body></html>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-APPTLASTSEQUENCE:4
+X-MS-OLK-APPTSEQTIME:20220309T090501Z
+X-MS-OLK-AUTOFILLLOCATION:TRUE
+X-MS-OLK-CONFTYPE:0
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20220419T115747Z
+DTEND:20220210T093000Z
+DTSTAMP:20220419T115747Z
+DTSTART:20220210T083500Z
+LAST-MODIFIED:20220419T115747Z
+PRIORITY:5
+RECURRENCE-ID:20220210T083500Z
+SEQUENCE:0
+UID:040000008200E00074C5B7101A82E00800000000A06524739200D801000000000000000
+	010000000819E1DB46B2C454388A4DFC3E2E5F308
+X-MICROSOFT-CDO-IMPORTANCE:1
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20220419T115747Z
+DTEND:20220224T093000Z
+DTSTAMP:20220419T115747Z
+DTSTART:20220224T083500Z
+LAST-MODIFIED:20220419T115747Z
+PRIORITY:5
+RECURRENCE-ID:20220224T083500Z
+SEQUENCE:0
+UID:040000008200E00074C5B7101A82E00800000000A06524739200D801000000000000000
+	010000000819E1DB46B2C454388A4DFC3E2E5F308
+X-MICROSOFT-CDO-IMPORTANCE:1
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20220419T115747Z
+DTEND:20220310T093000Z
+DTSTAMP:20220419T115747Z
+DTSTART:20220310T083500Z
+LAST-MODIFIED:20220419T115747Z
+PRIORITY:5
+RECURRENCE-ID:20220310T083500Z
+SEQUENCE:0
+UID:040000008200E00074C5B7101A82E00800000000A06524739200D801000000000000000
+	010000000819E1DB46B2C454388A4DFC3E2E5F308
+X-MICROSOFT-CDO-IMPORTANCE:1
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20220419T115747Z
+DTEND:20220324T093000Z
+DTSTAMP:20220419T115747Z
+DTSTART:20220324T083500Z
+LAST-MODIFIED:20220419T115747Z
+PRIORITY:5
+RECURRENCE-ID:20220324T083500Z
+SEQUENCE:0
+UID:040000008200E00074C5B7101A82E00800000000A06524739200D801000000000000000
+	010000000819E1DB46B2C454388A4DFC3E2E5F308
+X-MICROSOFT-CDO-IMPORTANCE:1
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR
